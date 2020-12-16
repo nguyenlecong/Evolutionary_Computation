@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="GA-TSP-TimeConstraint/src"/>
+	<classpathentry kind="output" path="GA-TSP-TimeConstraint/out/production/GA-TSP-TimeConstraint"/>
+</classpath>
